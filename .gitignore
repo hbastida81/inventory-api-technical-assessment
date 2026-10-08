@@ -1,0 +1,20 @@
+## .NET build artifacts
+**/bin/
+**/obj/
+TestResults/
+*.user
+*.suo
+
+## IDE
+.vs/
+.idea/
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Machine-specific Claude Code settings
+.claude/settings.local.json
+
+## Assessment PDF (not for public repository)
+PruebaTecnica_Hector 1.pdf
